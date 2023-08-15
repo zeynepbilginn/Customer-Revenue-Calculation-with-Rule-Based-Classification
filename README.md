@@ -19,8 +19,8 @@
 • SaleCheckInDayDiff: Day difference between check-in and check-in Season: Season information on check-in date  
 
 ## Libraries
-• Pandas, matplotlib   
-
+• pandas  
+• matplotlib  
 ### ---------------------------------------------------------------------------------------------------
 
 ## Business Problem & Problem
