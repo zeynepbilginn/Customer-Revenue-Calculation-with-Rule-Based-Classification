@@ -10,16 +10,16 @@
 
 
 ## Variables
-• SaleId : Sales ID
-• Sale Date : Sale Date
-• CheckInDate : Customer's login date
-• Price : Price paid for sale
-• ConceptName: Hotel concept information
-• SaleCityName: City where the hotel is located CInDay: The day the customer arrives at the hotel
+• SaleId : Sales ID  
+• Sale Date : Sale Date  
+• CheckInDate : Customer's login date  
+• Price : Price paid for sale  
+• ConceptName: Hotel concept information  
+• SaleCityName: City where the hotel is located CInDay: The day the customer arrives at the hotel  
 • SaleCheckInDayDiff: Day difference between check-in and check-in Season: Season information on check-in date  
 
 ## Libraries
-• pandas  
+• pandas   
 • matplotlib  
 ### ---------------------------------------------------------------------------------------------------
 
