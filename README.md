@@ -23,21 +23,21 @@
 
 ### ---------------------------------------------------------------------------------------------------
 
-Business Problem & Problem
+## Business Problem & Problem
 • A game company using some features of its customers new level-based customer definitions (persona) by using the characteristics of individual customers (level based persona). Create segments for new customer definitions according to these segments and create new How much is the average number of customers coming to the company?   
 • E.g: A 25-year-old male from Turkey who is an IOS user how much the user can earn on average is to be determined.
 
-Dataset Story
+## Dataset Story
 • Persona.csv dataset shows the prices of products sold by an international game company. Some demographic information of users purchasing these products contains. 
 • The data set consists of records created in each sales transaction.
 
-Variables
-• PRICE – Customer's spending amount 
-• SOURCE – The type of device the customer is connecting to 
-• SEX – Gender of the client 
-• COUNTRY – Country of the customer
+## Variables
+• PRICE – Customer's spending amount   
+• SOURCE – The type of device the customer is connecting to   
+• SEX – Gender of the client   
+• COUNTRY – Country of the customer  
 • AGE – Customer's age
 
-Libraries
+## Libraries
 • pandas 
 • matplotlib
