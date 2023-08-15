@@ -29,7 +29,8 @@
 • E.g: A 25-year-old male from Turkey who is an IOS user how much the user can earn on average is to be determined.
 
 ## Dataset Story
-• Persona.csv dataset shows the prices of products sold by an international game company. Some demographic information of users purchasing these products contains.   
+• Persona.csv dataset shows the prices of products sold by an international game company. Some demographic information of users purchasing these products contains.  
+  
 • The data set consists of records created in each sales transaction.  
 
 ## Variables
